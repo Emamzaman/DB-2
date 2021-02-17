@@ -1,4 +1,4 @@
-const PF6Config = require("./PF6Config.json");
+
 const Discord = require("discord.js");
 const fs = require("fs");
 const db = require("quick.db");
